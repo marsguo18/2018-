@@ -1,5 +1,6 @@
 # 2. HotpotQA 属于哪一类数据集
 新型问答数据集：HotpotQA
+
 现有的问答（QA）数据集无法训练可执行**复杂推理和提供答案解释**的QA系统。HotpotQA由此而生。
 ## 目前主流的问答数据集：SQuAD
 [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) 全称为：Stanford Question Answering Dataset (SQuAD)，斯坦福问答数据集。目前主流的问答数据集对**多信息进行多步推理**能力可能较为欠缺
