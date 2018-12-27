@@ -1,0 +1,2 @@
+# 8. DropBlock方法的用途
+DropBlock作为dropout 的一种结构化变体来对卷积网络进行正则化。解决了dropout正则化对卷积层的效果没那么好的问题。
