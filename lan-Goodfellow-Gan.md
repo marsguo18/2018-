@@ -1,0 +1,1 @@
+# 13. 在lan Goodfellow提出GAN的原论文中，度量分布间距离的方法
