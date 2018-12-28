@@ -24,6 +24,6 @@
 - 2016 年，Le 与一位谷歌研究者合作发表了一篇开创性的论文《Neural Architecture Search with Reinforcement Learning》。其指出：让机器从一个定义空间中选取自己所需的组件来构建神经网络，然后使用一种试错技术，也就是强化学习来提升其准确度。
 
 
-参考文献：
+## 参考文献：<br>
 [1] [告别调参，AutoML新书发布](https://www.jiqizhixin.com/articles/2018-10-17-14?from=synced&keyword=AutoML). 机器之心, 2018.10.17<br>
 [2] [让机器自己学习人工智能，「OneClick.ai」正打造自动化的深度学习人工智能平台](https://www.toutiao.com/a6561542535754285575/). 36氢, 2018.5.31
