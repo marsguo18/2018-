@@ -11,9 +11,9 @@
 
 ## 其他机器学习自动化
 ### [CustomVision.AI](https://www.customvision.ai)
-- 2017年底，微软发布CustomVision.AI，涵盖图像、视频、文本和语音等各个领域。今年 1 月，他们又推出了完全自动化的平台 Microsoft Custom Vision Services（微软定制视觉服务）。[1](#)
+- 2017年底，微软发布CustomVision.AI，涵盖图像、视频、文本和语音等各个领域。今年 1 月，他们又推出了完全自动化的平台 Microsoft Custom Vision Services（微软定制视觉服务）。[1]
 ### [OneClick.AI](https://www.oneclick.ai/zh-hans/)
-- OneClick.AI 在2017 年年底正式上线，支持深度学习和传统机器学习算法，能处理结构化数据，以及混合了文字、图像、时间序列的非结构化内容。[2](#)
+- OneClick.AI 在2017 年年底正式上线，支持深度学习和传统机器学习算法，能处理结构化数据，以及混合了文字、图像、时间序列的非结构化内容。[2]
 - OneClick.ai 基于通用的模型结构设计算法（Generalized Architecture Search，GAS），用于处理更复杂数据的分类和回归分析。GAS 支持自动特征工程和数据预处理，可与人类算法工程师一样，进行原始数据的观测，利用有监督学习从数据中积累相关领域的知识，提高了计算效率。
 
 ## AutoML的创造者
@@ -25,5 +25,5 @@
 
 
 参考文献：
-[1](#) [告别调参，AutoML新书发布](https://www.jiqizhixin.com/articles/2018-10-17-14?from=synced&keyword=AutoML). 机器之心, 2018.10.17
-[2](#) [让机器自己学习人工智能，「OneClick.ai」正打造自动化的深度学习人工智能平台](https://www.toutiao.com/a6561542535754285575/). 36氢, 2018.5.31
+[1] [告别调参，AutoML新书发布](https://www.jiqizhixin.com/articles/2018-10-17-14?from=synced&keyword=AutoML). 机器之心, 2018.10.17<br>
+[2] [让机器自己学习人工智能，「OneClick.ai」正打造自动化的深度学习人工智能平台](https://www.toutiao.com/a6561542535754285575/). 36氢, 2018.5.31
